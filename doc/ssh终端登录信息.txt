@@ -1,4 +1,0 @@
-Hostname: 114.212.10.201
-Port: 5209
-Username: pa231180187
-Password: pa231180187 (default, changed by yourself)
